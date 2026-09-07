@@ -1,134 +1,115 @@
-# 👋 Hi, I'm Mahima Yadav
+# 🌐 Mahima Yadav — Portfolio
 
 ### 💻 Full Stack Web Developer | MCA Student
 
-I’m a passionate web developer who loves building **modern, responsive and user-friendly web applications**.
+Welcome to my personal portfolio repository! 🚀
 
-🎓 Currently pursuing **MCA**  
-💼 Full Stack Web Developer Intern  
-🚀 Interested in Web Development & Software Development  
-🌱 Currently improving my Full Stack Development skills
+This project showcases my **skills, education, internship experience, projects, and journey as a web developer**.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 MCA Student
-- 💻 Full Stack Web Developer Intern
-- 🌐 Building responsive and interactive web applications
-- ⚡ Interested in React & modern web technologies
-- 📚 Always learning and improving my development skills
-- 🎯 Open to learning, collaboration and new opportunities
+I am a BCA graduate and currently pursuing MCA from Vivekananda College of Technology and Management, affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU).
 
----
+I am passionate about **web development** and enjoy creating modern, responsive, interactive, and user-friendly web applications.
 
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Currently, I am working as a **Full Stack Web Developer Intern** at Hanumant Technology, Lucknow.
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Technologies Used
 
-### 🏥 AttendEase
-Attendance management web application.
-
-**Tech:** React • Node.js • Express.js • MongoDB
-
----
-
-### 🍔 BiteBuzz
-Modern food-related web application with an interactive user interface.
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🚗 NebulaMotors
-Modern and responsive automobile website.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Python
+- Git
+- GitHub
 
 ---
 
-### 🛍️ ShopSphere
-E-commerce based web project with a modern interface.
+## ✨ Portfolio Features
 
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
----
-
-### ✈️ TravelNova
-Travel website designed with a clean and responsive interface.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahima5605&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima5605&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+- 📱 Fully Responsive Design
+- 🎨 Modern & Clean UI
+- ⚡ Interactive User Interface
+- 👩‍💻 About Me Section
+- 🎓 Education Timeline
+- 💼 Internship Experience
+- 🚀 Projects Showcase
+- 🛠️ Skills Section
+- 📄 Resume Section
+- 📬 Contact Section
+- 🔗 Social Media Links
 
 ---
 
-## 🔥 GitHub Streak
+## 🎓 Education
 
-<p align="center">
+**Master of Computer Applications (MCA)**  
+Vivekananda College of Technology and Management  
+2026 – Present
 
-<img src="https://streak-stats.demolab.com?user=mahima5605&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/mahima5605">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahima-yadav-901244382/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+**Bachelor of Computer Applications (BCA)**  
+Vivekananda College of Technology and Management  
+2023 – 2026  
+🏆 Department Topper — 90.3%
 
 ---
 
-## ✨ My Goal
+## 💼 Internship
 
-> **"Keep learning. Keep building. Keep growing."**
+**Full Stack Web Developer Intern**  
+Hanumant Technology, Lucknow  
+2026 – Present
 
-I believe that consistent learning and building real-world projects is the best way to become a better developer.
+### Technologies:
+React.js • Node.js • Express.js • MongoDB
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🚀 Featured Projects
 
-If you like my projects, feel free to ⭐ the repositories.
+Some of my projects are:
+
+- 🏥 AttendEase
+- 🍔 BiteBuzz
+- 🚗 NebulaMotors
+- 🛍️ ShopSphere
+- ✈️ TravelNova
+
+---
+
+## 🌐 Live Portfolio
+
+🔗 **Portfolio:** https://mahima5605.github.io/MAHIMA/
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/mahima5605
+
+🔗 LinkedIn: https://www.linkedin.com/in/mahima-yadav-901244382/
+
+---
+
+## 📌 Future Improvements
+
+- Add more full-stack projects
+- Improve UI/UX
+- Add more interactive features
+- Keep learning modern web technologies
+
+---
+
+### ⭐ Thanks for visiting my repository!
+
+**Made with ❤️ by Mahima Yadav**
