@@ -70,32 +70,8 @@ I am a **Full Stack Web Developer** and currently pursuing **MCA** from Vivekana
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mahima5605/AttendEase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=AttendEase&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mahima5605/BiteBuzz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=BiteBuzz&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mahima5605/NebulaMotors">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=NebulaMotors&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mahima5605/ShopSphere">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=ShopSphere&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
-
 ## 🎓 Education
 
 <div align="center">
