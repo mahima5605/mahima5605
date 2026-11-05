@@ -115,27 +115,54 @@ React.js • Node.js • Express.js • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahima5605&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<a href="https://github.com/mahima5605/BrainBuzzQuiz">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=BrainBuzzQuiz&theme=tokyonight&hide_border=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahima5605&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/mahima5605/NoteStack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=NoteStack&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 💻 Other Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [TravelNova](https://github.com/mahima5605/TravelNova) | Travel Booking Website | HTML, CSS, JavaScript, Bootstrap |
+| [BiteBuzz](https://github.com/mahima5605/BiteBuzz) | Food Ordering Website | HTML, CSS, JavaScript, Bootstrap |
+
+---
+
+## ✨ Developer Highlights
+
+<div align="center">
+
+| 💡 Area | Details |
+|:---:|:---|
+| 🎓 Education | MCA Student |
+| 💻 Development | Full Stack Web Development |
+| ⚛️ Frontend | React, JavaScript, Bootstrap |
+| ⚙️ Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB, MySQL |
+| 🏆 Achievement | BCA Department Topper – 90.3% |
+| 📜 Internship | 6 Months – Hanumant Technology |
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahima5605&theme=tokyonight&hide_border=true&border_radius=12" />
+### 💜 Code • Learn • Build • Grow 🚀
 
 </div>
 
----
 
 ## 🌐 Let's Connect
 
