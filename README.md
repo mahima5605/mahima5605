@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=MAHIMA%20YADAV&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20MCA%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -32,7 +33,9 @@
 
 I am a **Full Stack Web Developer** and currently pursuing **MCA** from Vivekananda College of Technology and Management, affiliated with **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**.
 
-💻 Currently working as a **Full Stack Web Developer Intern** at Hanumant Technology, Lucknow.
+💻 Completed a **6-month Full Stack Web Development Internship** at Hanumant Technology, Lucknow.
+
+📅 Internship Duration: **1 May 2026 – 31 October 2026**
 
 🚀 I enjoy creating **modern, responsive and interactive web applications**.
 
@@ -70,8 +73,8 @@ I am a **Full Stack Web Developer** and currently pursuing **MCA** from Vivekana
 
 </div>
 
-
 ---
+
 ## 🎓 Education
 
 <div align="center">
@@ -95,13 +98,20 @@ I am a **Full Stack Web Developer** and currently pursuing **MCA** from Vivekana
 
 ### 💻 Full Stack Web Developer Intern
 
-**Hanumant Technology, Lucknow**
+**Hanumant Technology Pvt. Ltd., Lucknow**
 
-`2026 – Present`
+`1 May 2026 – 31 October 2026`
+
+**Internship Duration: 6 Months**
 
 React.js • Node.js • Express.js • MongoDB
 
 </div>
+
+- Worked on frontend and full-stack web application development.
+- Developed responsive user interfaces and backend APIs.
+- Collaborated with mentors to implement project requirements.
+- Debugged and tested web applications to improve functionality and performance.
 
 ---
 
