@@ -121,11 +121,9 @@ React.js • Node.js • Express.js • MongoDB
 <div align="center">
 
 <a href="https://github.com/mahima5605/BrainBuzzQuiz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=BrainBuzzQuiz&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/mahima5605/NoteStack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahima5605&repo=NoteStack&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
